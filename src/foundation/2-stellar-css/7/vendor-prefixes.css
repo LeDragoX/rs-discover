@@ -1,0 +1,7 @@
+/* Permite usar features novas, com o uso do prefixo em cada navegador, ex: */
+* {
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -ms-background-clip: text;
+  -o-background-clip: text;
+}
