@@ -1,0 +1,17 @@
+html {
+  /* font-size: 50%; 16px/2 */
+}
+
+body {
+  width: 50%;
+}
+
+li {
+  font-size: 80%;
+}
+
+div {
+  background-color: blue;
+  width: 50%;
+  height: 100px;
+}
