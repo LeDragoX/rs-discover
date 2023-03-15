@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  margin: 20% auto;
+
+  border: 20px solid red;
+  border-top: 4px double green;
+  border-bottom: none;
+
+  outline: 4px solid yellow;
+
+  /* box-sizing: border-box; */
+}

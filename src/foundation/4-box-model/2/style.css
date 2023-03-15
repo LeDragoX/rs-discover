@@ -1,0 +1,19 @@
+div {
+  height: 100px;
+  border: 1px solid red;
+  width: 10px;
+}
+
+span {
+  width: 10px;
+  height: 100px;
+  border: 1px solid green;
+}
+
+div.block {
+  margin: 20px;
+}
+
+span.inline {
+  margin: 20px;
+}
