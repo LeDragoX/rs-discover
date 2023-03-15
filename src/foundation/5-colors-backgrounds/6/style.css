@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+header {
+  height: 100px;
+  border: 7px dashed red;
+  padding: 16px;
+
+  background-color: rgb(55, 100, 50);
+  background-image: url(https://www.rocketseat.com.br/assets/logos/rocketseat.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-origin: content-box;
+  background-clip: content-box;
+}

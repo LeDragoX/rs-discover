@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+main {
+  color: gray;
+  padding: 10px;
+
+  background-color: rgb(55, 100, 50);
+  background-image: url(https://www.rocketseat.com.br/assets/logos/rocketseat.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-attachment: fixed;
+
+  background: rgb(55, 100, 50) url(https://www.rocketseat.com.br/assets/logos/rocketseat.svg) no-repeat right top / 300px content-box
+    content-box fixed;
+
+  background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 0, 0, 0.2));
+}
