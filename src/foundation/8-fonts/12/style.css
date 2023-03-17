@@ -1,0 +1,10 @@
+p {
+  font-family: 'Times New Roman', Times, sans-serif;
+  font-weight: normal;
+
+  font-family: 'Lato', sans-serif;
+  /* -style -variant -weight -stretch, -size, line-height, e -family */
+  font: italic normal bold normal 2em/1.25 Helvetica, Arial, sans-serif;
+
+  font: italic 1.5em/1.25 Helvetica, Arial, sans-serif;
+}
