@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <datalist id="searchterms">
+      <option value="Mac"></option>
+      <option value="Win"></option>
+      <option value="Linux"></option>
+    </datalist>
+
+    <form action="" id="my-form">
+      <label for="">Pesquisar pelo ID</label>
+      <input type="search" name="id" autocomplete="off" size="5" pattern="[0-9]{2}" title="Número do ID: 99" />
+      <br />
+      <input
+        type="search"
+        name="q"
+        list="searchterms"
+        autocomplete="off"
+        placeholder="Digite seu termo de busca"
+        size="29"
+        aria-label="Campo de pesquisa: Digite seu termo de busca"
+      />
+      <!-- q=searchterm -->
+      <button>Pesquisar</button>
+    </form>
+  </body>
+</html>
