@@ -8,3 +8,5 @@ Another study repo, because this time this will contain basic and more than basi
 - CSS
 - JavaScript
 - NodeJS
+
+> Sim tá em PT-BR
