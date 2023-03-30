@@ -1,18 +1,18 @@
-var name;
+var name
 
-name = "João";
+name = "João"
 
-console.log(name);
-console.log(typeof name);
+console.log(name)
+console.log(typeof name)
 
-let age, isHuman;
+let age, isHuman
 
-age = 18;
-isHuman = true;
+age = 18
+isHuman = true
 
-console.log(name, age, isHuman);
+console.log(name, age, isHuman)
 
-console.log('o ' + name + ' tem ' + age + ' anos.');
+console.log('o ' + name + ' tem ' + age + ' anos.')
 
 // Template literals/strings
-console.log(`o ${name} tem ${age} anos.`);
+console.log(`o ${name} tem ${age} anos.`)

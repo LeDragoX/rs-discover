@@ -1,6 +1,6 @@
-var name;
+var name
 
-name = "Mike";
+name = "Mike"
 
-console.log(name);
-console.log(typeof name);
+console.log(name)
+console.log(typeof name)
