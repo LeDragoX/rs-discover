@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+  font-size: 60px;
+}
+
+h1:hover,
+p:hover,
+.red {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+/* #content {
+  color: orange;
+}
+
+#title {
+  color: yellow;
+} */
+
+.big {
+  font-size: 3em;
+}
+
+[title] {
+  color: orange;
+}
