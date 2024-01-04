@@ -1,5 +1,6 @@
 # RS Discover
 
+**Old Content:** <https://biblioteca.rocketseat.com.br/> (2023)
 **Source:** <https://app.rocketseat.com.br/discover/>
 
 Another study repo, because this time this will contain basic and more than basic web coding 🔥
@@ -9,4 +10,5 @@ Another study repo, because this time this will contain basic and more than basi
 - JavaScript
 - NodeJS
 
+> ![NOTE]
 > Sim, o código está em PT-BR
