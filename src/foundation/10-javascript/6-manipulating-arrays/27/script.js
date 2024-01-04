@@ -1,0 +1,7 @@
+console.log("Plônio".__proto__)
+console.log({}.__proto__)
+console.log(23.0.__proto__)
+console.log("Mayk".length)
+console.log(true.__proto__)
+console.log(11.0.hasOwnProperty())
+console.log(['a', 'b'].length)
