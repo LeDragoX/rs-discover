@@ -9,4 +9,4 @@ Another study repo, because this time this will contain basic and more than basi
 - JavaScript
 - NodeJS
 
-> Sim tá em PT-BR
+> Sim, o código está em PT-BR
