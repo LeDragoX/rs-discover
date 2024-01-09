@@ -5,4 +5,5 @@ const person = {
 
 delete person.age
 
+console.log(typeof person)
 console.log(person)

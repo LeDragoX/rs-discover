@@ -26,7 +26,7 @@ function calcBalance(account) {
     accStatus = 'Você vai conhecer o Serasa, está com saldo NEGATIVADO'
   }
 
-  console.log(`Seu saldo é ${totalBalance.toFixed(2)}R$, então: ${accStatus}`)
+  console.log(`Seu saldo é R$${totalBalance.toFixed(2)}, então: ${accStatus}`)
 }
 
 calcBalance(family)

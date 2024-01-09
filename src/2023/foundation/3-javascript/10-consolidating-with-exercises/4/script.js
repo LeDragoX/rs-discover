@@ -35,6 +35,7 @@ const booksByCategory = [
   },
 ]
 
+// 1
 const totalCategories = booksByCategory.length
 
 console.log(totalCategories)
@@ -56,8 +57,10 @@ function countAuthors(booksByCategory) {
   console.log(`Total de autores: ${authors.length}`)
 }
 
+// 2
 countAuthors(booksByCategory)
 
+// 3
 function booksOfAuthor(booksByCategory, authorName) {
   let books = []
 
@@ -73,4 +76,6 @@ function booksOfAuthor(booksByCategory, authorName) {
 }
 
 booksOfAuthor(booksByCategory, 'Augusto Cury')
+
+// 4
 booksOfAuthor(booksByCategory, 'George S. Clason')

@@ -14,10 +14,10 @@ console.log(increment++)
 console.log(increment)
 console.log(++increment)
 
-let decrememt = 0
-console.log(decrememt--)
-console.log(decrememt)
-console.log(--decrememt)
+let decrement = 0
+console.log(decrement--)
+console.log(decrement)
+console.log(--decrement)
 
 // exponential
 console.log(3 ** 2)

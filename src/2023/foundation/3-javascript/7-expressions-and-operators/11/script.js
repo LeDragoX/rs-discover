@@ -7,7 +7,6 @@ console.log(niceBreakfast())
 pao = false
 console.log(niceBreakfast())
 
-
 // Maior de 18
 
 let age = 16
