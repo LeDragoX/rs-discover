@@ -1,0 +1,8 @@
+-- ORDER BY
+
+SELECT * FROM professor
+ORDER BY cpf DESC;
+
+-- LIMIT
+
+SELECT * FROM aluno LIMIT 2;
