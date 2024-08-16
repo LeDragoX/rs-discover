@@ -11,5 +11,5 @@ Another study repo, because this time this will contain basic and more than basi
 - NodeJS
 
 > [!NOTE]
-> PT-BR: Sim, o código está em Português.
-> EN: Yes, the code is in Portuguese.
+> 🇧🇷: Sim, tem código em Português.
+> 🇬🇧: Yes, there's code in Portuguese.
